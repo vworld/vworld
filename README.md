@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>🌍 I'm based in Kolkata, India<br>✉️  You can contact me at vworldconsultants@gmail.com<br>📚 I'm currently learning Python and Machine Learning<br>🚀  I'm currently working on A Tax management SAAS website<br>🤝  I'm open to collaborating on Interesting Projects</p>
+<p align="left">✨ Creating bugs since 2014<br>🔭 I’m currently working as a freelancer.🌍 I'm based in Kolkata, India<br>✉️  You can contact me at vworldconsultants@gmail.com<br>📚 I'm currently learning Python and Machine Learning<br>🚀  I'm currently working on A Tax management SAAS website<br>🤝  I'm open to collaborating on Interesting Projects</p>
 
 ###
 
